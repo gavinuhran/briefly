@@ -1,0 +1,13 @@
+.side-menu {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 250px;
+    left: 0px;
+    top: 45px;
+    bottom: 0px;
+    
+    /* Outline Color */
+    
+    border-right: 1px solid #E6E6E6;
+}
