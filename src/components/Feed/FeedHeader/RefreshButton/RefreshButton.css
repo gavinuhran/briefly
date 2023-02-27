@@ -13,9 +13,9 @@ button {
     top: 50%;
     transform: translate(0%, -50%);
     
-    background: #D5D5D5;
+    background: #FFFFFF;
+    border: 1px solid #5DCAE2;
     border-radius: 3px;
-    border: none;
 }
 
 .refresh-text {
@@ -28,7 +28,7 @@ button {
     font-size: 14px;
     line-height: 18px;
     
-    color: #FFFFFF;
+    color: #5DCAE2;
     
     
     /* Inside auto layout */
