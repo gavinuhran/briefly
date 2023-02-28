@@ -1,0 +1,30 @@
+.feed-header {
+    box-sizing: border-box;
+
+    position: absolute;
+    height: 45px;
+    left: 250px;
+    right: 0px;
+    top: 45px;
+    
+    /* Outline Color */
+    
+    border-bottom: 1px solid #E6E6E6;
+}
+
+.feed-heading {
+    position: absolute;
+    width: auto;
+    height: 28px;
+    left: 20px;
+    top: calc(50% - 28px/2 - 0.5px);
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 0px;
+    
+    color: #000000;
+}
+
