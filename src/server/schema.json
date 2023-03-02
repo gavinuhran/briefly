@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "_id": 0,
+            "firstName": "Gavin",
+            "lastName": "Uhran",
+            "email": "gavinu2001@gmail.com",
+            "lastRefresh": "2012-04-23T18:25:43.511Z",
+            "feeds": [
+                {
+                    "title": "Notre Dame Athletics",
+                    "following": [
+                        {
+                            "type": "twitter",
+                            "url": "https://twitter.com/timprister"
+                        },
+                        {
+                            "type": "news-website",
+                            "url": "https://247sports.com/college/notre-dame/"
+                        }
+                    ],
+                    "lastestItems": {
+                    }
+                }
+            ]
+        }
+    ]
+}
